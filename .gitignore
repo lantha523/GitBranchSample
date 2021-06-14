@@ -1,0 +1,23 @@
+target/
+logs/
+/**/*.log
+!.mvn/wrapper/maven-wrapper.jar
+
+### OSX ###
+/**/.DS_Store
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+application.pid
